@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "iimg",
+			"path": "..\\9-figma\\iimg"
+		},
+		{
+			"name": "8-dars bootstrap maket",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "8-dars bootstrap maket"
+	}
+}
